@@ -3,7 +3,6 @@ import random
 import time
 
 # -------- GLOBAL VARIABLES --------
-
 # Sets up the main window
 wn = turtle.Screen()
 wn.title("Hangman")
